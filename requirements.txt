@@ -3,3 +3,4 @@ ultralytics
 torch
 gdown
 Pillow
+gunicorn
